@@ -1,0 +1,95 @@
+body {
+  margin-top: 50px;
+  margin: 0 auto;
+  max-width: 50rem;
+  background-color: #717b52;
+  color: black;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 1rem 1rem 0 1rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: small;
+  line-height: normal;
+}
+
+hr {
+  margin: 0 30% 0;
+}
+
+footer {
+  font-size: smaller;
+  margin-top: 0.5rem;
+  color: #000000ad;
+  text-decoration: none;
+  filter: brightness(0.5);
+}
+
+.logo {
+  margin-bottom: 1rem;
+}
+
+.bottonQr{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.online {
+  margin-bottom: 0;
+}
+
+.Contact {
+  font-size: small;
+  line-height: normal;
+  margin-top: 8px;
+}
+
+.btn {
+  border-radius: 0.5rem;
+  box-shadow: 0 12px 10px 0 #00000036;
+}
+
+.vk1 {
+  margin: 1rem 0 1rem 0;
+}
+
+.vk {
+  margin-bottom: 3.7px;
+  margin-left: 4px;
+}
+
+
+.qr {
+  display: inline-block;
+}
+
+.wa {
+  margin-bottom: 4px;
+  margin-left: 4px;
+}
+
+.pay {
+  margin-top: 2rem;
+}
+
+.payText {
+  text-decoration: none;
+  color: black;
+  font-size: smaller;
+}
+
+.payText:hover {
+  text-decoration: none;
+}
+
+.img {
+  display: inline-flex;
+  filter: brightness(0.4);
+
+}
+
+.sber {
+  margin-left: 0.5rem;
+}
