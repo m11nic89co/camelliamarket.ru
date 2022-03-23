@@ -31,7 +31,7 @@ footer {
   margin-bottom: 1rem;
 }
 
-.bottonQr{
+.bottonQr {
   margin-top: 30px;
   margin-bottom: 30px;
 }
@@ -59,11 +59,10 @@ footer {
   margin-bottom: 3.7px;
   margin-left: 4px;
 }
-
-
+/* 
 .qr {
   display: inline-block;
-}
+} */
 
 .wa {
   margin-bottom: 4px;
@@ -87,9 +86,11 @@ footer {
 .img {
   display: inline-flex;
   filter: brightness(0.4);
-
 }
 
 .sber {
   margin-left: 0.5rem;
+}
+.online{
+  margin-bottom: 10px;
 }
